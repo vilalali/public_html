@@ -14,6 +14,9 @@ $ git clone https://github.com/vilalali/public_html.git
 $ cp -r public_html /var/www/html/
 
 $ cd /var/www/html/public_html
+
+Default root file is "index.html" inside the folder public_html.
+Replace complete directory from the exiting public_html.
 ```
 
 <video width="768" height="315" controls>
@@ -21,6 +24,7 @@ $ cd /var/www/html/public_html
 </video>
 
 [<img src="assets/DemoImage.png" width="100%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
 
 
 
